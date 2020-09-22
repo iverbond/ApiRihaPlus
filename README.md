@@ -1,2 +1,2 @@
-# ApiRihaplus
-Api Rihaplus
+# ApiRihaPlus
+Api RihaPlus
