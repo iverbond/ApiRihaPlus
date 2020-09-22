@@ -1,0 +1,3 @@
+include ':LibraryRihaPlus'
+include ':app'
+rootProject.name = "ApiRihaplus"
